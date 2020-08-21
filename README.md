@@ -131,7 +131,7 @@
 - [getseal](https://github.com/edk24/getseal)：照片中提取印章，透明公章
 - [dockerfile-git-bare](https://github.com/edk24/dockerfile-git-bare)：docker自建git中心仓库自动部署镜像
 
-- [gitsync](https://github.com/edk24/gitsync)：git自动同步脚本，一键完成add & commit & pull & push操作
+- [gitsync](https://github.com/edk24/gitsync)：git一键同步脚本，一键完成add & commit & pull & push操作
 
 - [php-api-base](https://github.com/edk24/php-api-base)：php简单api接口框架，适用二开api等小场景
 
