@@ -28,8 +28,9 @@
 - **文档**: Markdown、ApiDoc、Yapi、Postman(项目协作)
 - **桌面程序WebUI:** HTMLayout、wke、miniblink
 - **包管理**: Npm、Composer
-- **Web服务器:** Nginx
-- **队列：**RabbitMQ
+- **Web服务器:**: Nginx
+- **队列**: RabbitMQ
+- **抓包工具**: Fiddler
 - **传输层协议和相关框架以及扩展的协议**：UDP、TCP、WebScoket、HTTP/1.1、Hp-Socket、Socket
 
 
@@ -54,14 +55,16 @@
 **学康乐app**
 
 ```
-前端uniapp， 后端thinkphp，聊天用了swoole 有视频转码用到了ffmpeg和rabbitmq队列以及python， 以简单微服务方式架构
+前端uniapp， 后端thinkphp，聊天用了swoole 
+有视频转码用到了ffmpeg和rabbitmq队列以及python， 以简单微服务方式架构
 ```
 
 **红鑫羽商城app**
 
 ```
 红鑫羽是一个多商户生鲜商城， 内含有商家入驻， 供应商入驻， 骑手配送  聊天等功能；
-前端uniapp， 后端是thinkphp5， 聊天用的swoole加redis。后台桌面客户端打包用electron以及兼容性开发 ， 我主要是开发后端api接口和聊天服务设计开发和桌面客户端打包， websocket和http都用上了ssl
+前端uniapp， 后端是thinkphp5， 聊天用的swoole加redis。后台桌面客户端打包用electron以及兼容性开发;
+我主要是开发后端api接口和聊天服务设计开发和桌面客户端打包， websocket和http都用上了ssl
 ```
 
 
