@@ -32,6 +32,7 @@
 - **队列**: RabbitMQ
 - **抓包工具**: Fiddler
 - **其他常用工具**: curl
+- **开发板**：ESP8266
 - **传输层协议和相关框架以及扩展的协议**：UDP、TCP、WebScoket、HTTP/1.1、Hp-Socket、Socket
 
 
