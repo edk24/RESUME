@@ -4,7 +4,7 @@
 
 - 手机：18311548014
 - Email：yuxiaobo64@gmail.com
-- 期望职位： **全栈开发**、**PHP后端**
+- 期望职位： **全栈开发**
 - 期望城市：**贵阳**
 - 技术博客：https://edk24.com
 - Github：https://github.com/edk24
@@ -24,14 +24,13 @@
 - **版本管理**：Git、SVN
 - **容器/面板**：Docker、宝塔
 - **音视频处理:** ffmpeg
-- **脚本**: Shell bash、Python
-- **文档**: Markdown、ApiDoc、Yapi、Postman(项目协作)
+- **脚本**: Bash、Python
+- **文档**: Markdown、ApiDoc、Yapi
 - **桌面程序WebUI:** HTMLayout、wke、miniblink
 - **包管理**: Npm、Composer
 - **Web服务器:**: Nginx
 - **队列**: RabbitMQ
-- **抓包工具**: Fiddler
-- **其他常用工具**: curl
+- **抓包工具、调试工具**: Fiddler、curl
 - **开发板**：ESP8266
 - **传输层协议和相关框架以及扩展的协议**：UDP、TCP、WebScoket、HTTP/1.1、Hp-Socket、Socket
 
