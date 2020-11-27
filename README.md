@@ -14,23 +14,22 @@
 
 # 技能清单
 
-- **web后端框架**：CodeIgniter、ThinkPHP3、ThinkPHP5、Laravel5、Swoole、EasySwoole、ThinkPHP6、web.py、Express
-- **后端语言**: Golang、Nodejs、PHP、Python、Java
+- **web后端框架**：CodeIgniter、ThinkPHP、Laravel5、Swoole、EasySwoole、web.py、Express
+- **后端语言**: PHP、Nodejs、Golang、Python
 - **移动开发**: Uniapp、微信原生小程序、H5
 - **桌面开发**：Electron、C#
 - **前端框架/技术**：Bootstrap、Vue、JQuery、Axios、WeUI、MUI、Layui、Element-ui、Vue-Element-Admin
 - **操作系统**: Ubuntu、CentOS、Deepin
 - **数据库**：MySQL、SQLite、Access2003、Redis
-- **版本管理**：Git、SVN
+- **版本控制**：Git、SVN
 - **容器/面板**：Docker、宝塔
 - **音视频处理:** ffmpeg
-- **脚本**: Bash、Python
-- **文档**: Markdown、ApiDoc、Yapi
+- **脚本**: Shell、Python
+- **文档**: Markdown、Gitbook、ApiDoc、Yapi
 - **桌面程序WebUI:** HTMLayout、wke、miniblink
 - **包管理**: Npm、Composer
-- **Web服务器:**: Nginx
 - **队列**: RabbitMQ
-- **抓包工具、调试工具**: Fiddler、curl
+- **抓包工具、调试工具**: Fiddler、CURL、Wireshark
 - **开发板**：ESP8266
 - **传输层协议和相关框架以及扩展的协议**：UDP、TCP、WebScoket、HTTP/1.1、Hp-Socket、Socket
 
@@ -40,18 +39,19 @@
 
 - 自学编程(2012年)至今，学东西上手快，技术栈较为丰富，动手能力强；
 - 会Markdown、GitBook，yapi，编写文档通俗易懂；
-- 使用Linux两年，自用deepin，会搭各种如`lamp`、`lnmp`、`ss`、`s5`等环境和配置；
+- 开发系统使用的Linux，善于使用各类工具命令脚本完成任务；
 - 拥有前后端以及桌面开发 服务器中间件开发 运维等经验；
-
+- 对网络协议比较熟悉，使用tcp、udp、websocket、socket完成过各类中间件、聊天开发任务。早期自学抓包，对http协议比较了解
+- 善用各种调试抓包工具，curl、fiddler、wireshark等等；
 
 
 # 工作经历 & 项目经验
 
 ---
-
+<!--
 ## 贵阳市云岩区中建培训学校
 
-<!-- 2020/08/31 ~ 至今 -->
+<!-- 2020/08/31 ~ 至今 --\>
 
 > 职务: PHP后端工程师
 
@@ -64,7 +64,7 @@
 公司内部系统, 解析简历数据保存到系统中, 猎聘进行跟进完善资料; 为公司推荐优质人才
 
 ---
-
+-->
 
 ## 贵州翌宸志信科技有限公司 
 
