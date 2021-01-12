@@ -14,7 +14,7 @@
 
 # 技能清单
 
-- **web后端框架**：CodeIgniter、ThinkPHP、Laravel5、Swoole、EasySwoole、web.py、Express
+- **web后端框架**：CodeIgniter、ThinkPHP、Laravel5、Yii2、Swoole、EasySwoole、web.py、Express
 - **后端语言**: PHP、Nodejs、Golang、Python
 - **移动开发**: Uniapp、微信原生小程序、H5
 - **桌面开发**：Electron、C#
@@ -22,27 +22,27 @@
 - **操作系统**: Ubuntu、CentOS、Deepin
 - **数据库**：MySQL、SQLite、Access2003、Redis
 - **版本控制**：Git、SVN
-- **容器/面板**：Docker、宝塔
+- **容器/面板**：Docker、宝塔、LNMP
 - **音视频处理:** ffmpeg
 - **脚本**: Shell、Python
-- **文档**: Markdown、Gitbook、ApiDoc、Yapi
 - **桌面程序WebUI:** HTMLayout、wke、miniblink
 - **包管理**: Npm、Composer
 - **队列**: RabbitMQ
 - **抓包工具、调试工具**: Fiddler、CURL、Wireshark
 - **开发板**：ESP8266
-- **传输层协议和相关框架以及扩展的协议**：UDP、TCP、WebScoket、HTTP/1.1、Hp-Socket、Socket
+- **传输层协议和相关框架以及扩展的协议**：UDP、TCP、WebScoket、HTTP、Hp-Socket、Socket
 
 
 
 # 个人优势
 
 - 自学编程(2012年)至今，学东西上手快，技术栈较为丰富，动手能力强；
-- 会Markdown、GitBook，yapi，编写文档通俗易懂；
-- 开发系统使用的Linux，善于使用各类工具命令脚本完成任务；
+- 会用Markdown、GitBook，yapi，编写文档通俗易懂；
+- 开发电脑系统使用的Linux，善于使用各类工具命令脚本完成任务；
 - 拥有前后端以及桌面开发 服务器中间件开发 运维等经验；
 - 对网络协议比较熟悉，使用tcp、udp、websocket、socket完成过各类中间件、聊天开发任务。早期自学抓包，对http协议比较了解
 - 善用各种调试抓包工具，curl、fiddler、wireshark等等；
+- 开发并长期过5w并发的php项目，对nginx、fpm、mysql、redis等配置优化有丰富经验；
 
 
 # 工作经历 & 项目经验
