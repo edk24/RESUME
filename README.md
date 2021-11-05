@@ -4,7 +4,7 @@
 
 - 手机：18311548014
 - Email：yuxiaobo64@gmail.com
-- 期望职位： **后端开发、前端开发**
+- 期望职位： **后端开发** or **前端开发**
 - 期望城市：**贵阳**
 - 技术博客：https://edk24.com
 - Github：https://github.com/edk24
@@ -14,11 +14,11 @@
 
 # 技能清单
 
-- **web后端框架**：CodeIgniter、ThinkPHP、Laravel5、Yii2、Swoole、EasySwoole、web.py、Express
+- **web后端框架**：CodeIgniter、ThinkPHP、Laravel5、Yii2、Swoole、EasySwoole、web.py、Express、Workerman
 - **后端语言**: PHP、Nodejs、Golang、Python
 - **移动开发**: Uniapp、微信原生小程序、H5
 - **桌面开发**：Electron、C#
-- **前端框架/技术**：Bootstrap、Vue、JQuery、Axios、WeUI、MUI、Layui、Element-ui、Vue-Element-Admin
+- **前端框架/技术**：Bootstrap、Vue、JQuery、Axios、WeUI、MUI、Layui、Element-ui、Vue-Element-Admin、Requirejs
 - **操作系统**: Ubuntu、CentOS、Deepin
 - **数据库**：MySQL、SQLite、Access2003、Redis
 - **版本控制**：Git、SVN
@@ -26,8 +26,8 @@
 - **音视频处理:** ffmpeg
 - **脚本**: Shell、Python
 - **桌面程序WebUI:** HTMLayout、wke、miniblink
-- **包管理**: Npm、Composer
-- **队列**: RabbitMQ
+- **包管理**: Npm、Composer、Bower、apt、yum
+- **队列**: RabbitMQ、Think-Queue
 - **抓包工具、调试工具**: Fiddler、CURL、Wireshark
 - **物联网开发板**：ESP8266
 - **传输层协议和相关框架以及扩展的协议**：UDP、TCP、WebScoket、HTTP、Hp-Socket、Socket
@@ -43,8 +43,57 @@
 - 对网络协议比较熟悉，使用tcp、udp、websocket、socket完成过各类中间件、聊天开发任务。对http协议比较了解，善用各类抓包工具解决问题；
 - 开发并长期维护过5w并发的php项目，对nginx、fpm、mysql、redis等配置优化有丰富经验；
 
-
 # 工作经历 & 项目经验
+
+
+
+## 贵州赫尔斯科技有限公司
+
+<!-- 2021/03/04 ~ 至今 -->
+
+> 职务: 资深工程师
+
+### 贵州省纪委监察干部培训学院 (pc + 小程序)
+
+干部学院每周组织省内各个级别的领导参加培训，系统主要实现对原有传统流程的革新, 小程序为各领导展示培训内容课程、住宿信息、餐饮信息的展示。pc端实现OA办公对接企业微信、酒店管理系统、进销存管理系统、学员报名、自动按学员培训批次/性别/级别排房等等
+
+现实采用自助取卡机，绑定学员身份对接自研酒店管理系统实现自助扫脸取房卡，降低前台、客房部压力；
+
+食堂使用esp8266 + rc522(rcid模块) 实现非接触式刷餐卡并通过WiFi网络保存到系统内部;
+
+前台也采用易语言开发的中间件对接自研酒店管理系统和必达门锁软件, 实现web端制房卡和退卡等
+
+ 
+
+技术：fastadmin、vue、uniapp、gd、企业微信开发、必达门锁、自助取卡机等
+
+负责：全栈开发
+
+
+
+### 观山湖区智能媒体资源库(pc + app)
+
+为观山湖区融媒体中心开发的媒体资源库，内部人员使用；功能是整合媒体资源，记者可以上传和下载图片、视频、音频、文档，还可以使用全文搜索检索和统计数据，需补充标签作者人物等标签以及结合腾讯云的万象数据识别图片exif信息、图片、视频自动鉴黄涉政涉暴、识别媒体资源中出场重要人物，自动生成字幕等；
+
+app主要提供手机上传下载以及查看个人媒体资源检索等，支持ios和安卓
+
+
+
+技术：fastadmin、vue、uniapp、ffmpeg、gd、think-queue、workerman、mysql全文搜索、结巴分词等
+
+负责：全栈开发
+
+
+
+### 贵州省公安厅党史学习小程序
+
+纪念建党100周年答题有奖活动，仅内部贵州省内公安、消防等部门参与
+
+
+
+技术：fastadmin、uniapp
+
+负责：全栈开发
 
 ---
 
