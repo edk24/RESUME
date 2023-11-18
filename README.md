@@ -1,15 +1,13 @@
 # 个人信息
 
-**余小波**, 男, 23岁
+**余小波**, 男, 26岁
 
 - 手机：18311548014
 - Email：yuxiaobo64@gmail.com
-- 期望职位： **后端开发** or **前端开发**
+- 期望职位： **后端开发**
 - 期望城市：**贵阳**
-- 技术博客：https://edk24.com
-- Github：https://github.com/edk24
-- 工作笔记：<http://aili.edk24.com>
-
+- 技术博客：[https://doc.edk24.com](https://doc.edk24.com)
+- Github：edk24
 
 
 # 技能清单
@@ -215,19 +213,19 @@ H5酒店在线预定商城
 
 
 
-
 # 开源项目和作品
 
 ## 开源项目
 
-- [getseal](https://github.com/edk24/getseal)：照片中提取印章，透明公章
-- [dockerfile-git-bare](https://github.com/edk24/dockerfile-git-bare)：docker自建git中心仓库自动部署镜像
-
-- [gitsync](https://github.com/edk24/gitsync)：git一键同步脚本，一键完成add & commit & pull & push操作
-
-- [php-api-base](https://github.com/edk24/php-api-base)：php简单api接口框架，适用二开api等小场景
-
-- [uniapp-proejct-templete](https://github.com/edk24/uniapp-proejct-templete)：uniapp项目脚手架，包含代码规范和vuex以及jwt验证接口拦截器等
+- docker [edk24/docker-php](https://hub.docker.com/r/edk24/docker-php)：生产可用的 nginx + php 镜像，K8S可用
+- php [yuxiaobo/gzdata_sms_sdk](https://packagist.org/packages/yuxiaobo/gzdata_sms_sdk)：php云上贵州短信SDK
+- php [yuxiaobo/jumdata](https://packagist.org/packages/yuxiaobo/jumdata)：php聚美智数短信SDK
+- php [yuxiaobo/workwechat-bot-notify](https://packagist.org/packages/yuxiaobo/workwechat-bot-notify)：PHP企业微信群聊机器人通知SDK，纯粹简洁
+- php [yuxiaobo/ant-cloudpay-sdk](https://packagist.org/packages/yuxiaobo/ant-cloudpay-sdk)：PHP支付宝(蚂蚁云支付)SDK
+- python [getseal](https://github.com/edk24/getseal)：照片中提取印章，透明公章
+- go [gitsync](https://github.com/edk24/gitsync)：git一键同步脚本，一键完成add & commit & pull & push操作 (Windows & Linux)
+- php [php-api-base](https://github.com/edk24/php-api-base)：php简单api接口框架，适用二开api等小场景
+- vue [uniapp-proejct-templete](https://github.com/edk24/uniapp-proejct-templete)：uniapp项目脚手架，包含代码规范和vuex以及jwt验证接口拦截器等
 
 
 # End
