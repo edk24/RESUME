@@ -40,6 +40,7 @@
 - **操作系统**：Ubuntu、Debain、CentOS、Deepin
 - **脚本**：Shell、Python
 - **容器/面板**：Docker、宝塔、LNMP、1panel
+- **CI/CD**: Git Action, Jenkins
 
 ### 其他
 
